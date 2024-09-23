@@ -1,0 +1,13 @@
+a
+{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 5px;
+}
+a:hover
+{
+    background-color: aquamarine;
+    cursor: pointer;
+}

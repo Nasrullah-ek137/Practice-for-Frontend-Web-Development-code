@@ -1,0 +1,12 @@
+h1
+{
+    border-style: solid;
+}
+
+.style
+{
+    border-style: double;
+    height: 300px;
+    width: 100%;
+    background-color: bisque;
+}

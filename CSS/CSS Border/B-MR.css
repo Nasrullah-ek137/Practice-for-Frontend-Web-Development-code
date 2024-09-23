@@ -1,0 +1,11 @@
+h1{
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.margin
+{
+    border-style: double;
+    border-color:blue;
+    margin: 10px 15px 18px 20px;
+}

@@ -1,0 +1,27 @@
+h1{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+#secc{
+    color: chocolate;
+    background-color: blue;
+}
+
+.helloworld{
+    color: rgb(180, 197, 191);
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color: cadetblue;
+    background-color: aquamarine;
+}
+p{
+    color: blanchedalmond;
+}
+.RCB{
+    color: brown;
+    text-align: center;
+}

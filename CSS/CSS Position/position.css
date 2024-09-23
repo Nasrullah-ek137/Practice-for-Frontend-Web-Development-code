@@ -1,0 +1,25 @@
+.first-div
+{
+    height: 70px;
+    width: 100%;
+    background-color: bisque;
+    line-height: 70px;
+}
+
+.second-div
+{
+    height: 800px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.third-div
+{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+
+}

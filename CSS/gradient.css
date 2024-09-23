@@ -1,0 +1,27 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1
+{
+    height: 100px;
+    line-height: 100px;
+    width: 100%;
+    color: wheat;
+    background-image: linear-gradient(to bottom,brown,black,darkblue);
+    text-align: center;
+}
+.radial
+{
+    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(circle,aqua,green,blue,brown);
+    border-radius: 100px;
+}
+.conic
+{
+    height: 200px;
+    width: 200px;
+    background-image:conic-gradient(red,green,yellow);
+}
